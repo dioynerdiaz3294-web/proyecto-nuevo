@@ -104,3 +104,5 @@ GitHub: [@dioynerdiaz3294-web](https://github.com/dioynerdiaz3294-web)
 Proyecto en desarrollo.
 
 Versión de prueba
+
+![Proyecto](proyecto.png)
