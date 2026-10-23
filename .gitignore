@@ -1,4 +1,22 @@
+# Entornos virtuales
 venv/
+env/
+.venv/
+
+# Archivos temporales de Python
 __pycache__/
-.env
 *.pyc
+
+# Secretos y configuración local
+.env
+
+# Base de datos local y archivos generados
+db.sqlite3
+media/
+staticfiles/
+
+# Editores
+.vscode/
+.idea/
+
+captura-github.png
